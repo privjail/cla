@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "s417-lama",
+      "id": 26866454,
+      "comment_id": 2662117185,
+      "created_at": "2025-02-17T05:47:02Z",
+      "repoId": 933948086,
+      "pullRequestNo": 1
+    }
+  ]
 }
